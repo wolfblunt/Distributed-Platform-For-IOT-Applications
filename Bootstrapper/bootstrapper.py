@@ -1,7 +1,7 @@
 import os
 import time
 
-pswd="1234"
+pswd="123456"
 
 #files=["install.sh", "Scheduler.sh", "Monitoring.sh", "ApplicationManager.sh", "ActionManager.sh", "Deployer.sh", "FaultTolerance.sh", #"NodeManager.sh", "SensorRegistry"]
 
